@@ -30,7 +30,7 @@ namespace GraduateRecruitment.ConsoleApp
 
         private static void Question1(OpenBarRepository repo)
         {
-            Console.WriteLine("Question 1: What is the most popular drink on a Wednesday?");
+            Console.WriteLine("Question 1: What is the most popular drink, including the quantity, on a Wednesday?");
 
             // Write your answer to the console here.
             // Format e.g.  {inventory name}: {quantity}
@@ -38,7 +38,7 @@ namespace GraduateRecruitment.ConsoleApp
 
         private static void Question2(OpenBarRepository repo)
         {
-            Console.WriteLine("Question 2: What is the most popular drink per day?");
+            Console.WriteLine("Question 2: What is the most popular drink, including the quantities, per day?");
 
             // Write your answer to the console here.
             // Format e.g.  {day of week}
