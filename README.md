@@ -4,6 +4,21 @@
 
 Graduate Recruitment is a Console Application that loads CSV files containing data that allows us to track the stock in our Open Box Software bar fridge.
 
+## How do I get set up?
+
+1. You will need a suitable IDE. For example:
+   - Visual Studio Code
+   - Visual Studio 2019 or later
+2. Download the code in this repo as a zip file.
+3. Create your own Github account if you do not already have one.
+4. Create a repository on your Github account and push the code from the zipped file into this repository. 
+5. Add the GitHub account "openboxsoftware" as a collaborator on your repository.
+6. Create a branch called `graduate-recruitment-excercise`.
+7. Write the code that will complete the below exercises and push to the `graduate-recruitment-excercise` branch.
+8. Do NOT merge your code into your default branch (either `main` or `master`)
+9. Create a pull request from your `graduate-recruitment-excercise` branch into your default branch. 
+10. Once the openboxsoftware GitHub account has accepted your invitation to be a collaborator, you will be able to add the account as a reviewer on your pull request.
+
 ## Help us solve for the following:
 
 1. What is the most popular drink, including the quantity, on a Wednesday?
@@ -68,12 +83,5 @@ In addition to the correct answers we will look at the following:
 
 Running the console application should print out your final answers to the questions. There are formatting examples for the answers in the question methods provided in the `Program.cs` class.
 
-## How do I get set up?
-
-### Prerequisites
-
-1. Any suitable IDE. For example:
-   - Visual Studio Code
-   - Visual Studio 2019 or later
 
 ## Happy coding!
