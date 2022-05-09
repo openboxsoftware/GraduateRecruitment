@@ -2,7 +2,7 @@
 
 ## Open Box Software - Graduate Recruitment
 
-Graduate Recruitment is a Console Application that loads CSV files containing data that allows us to track the stock in our Open Box Software bar fridge. We need you to help us with the code for it!
+Our Open Box Software drinks fridge is running low and we need your help to restock it. Graduate Recruitment is a Console Application that loads CSV files containing data that allows us to track the stock in our drinks fridge. Help us to restock our drinks - using code -and you can win up to R10 000 in cash and 1 of 12 spots in our 2023 Graduate Programme!
 
 ## How do I get set up?
 
