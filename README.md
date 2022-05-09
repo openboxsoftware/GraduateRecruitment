@@ -2,7 +2,7 @@
 
 ## Open Box Software - Graduate Recruitment
 
-Graduate Recruitment is a Console Application that loads CSV files containing data that allows us to track the stock in our Open Box Software bar fridge.
+Graduate Recruitment is a Console Application that loads CSV files containing data that allows us to track the stock in our Open Box Software bar fridge. We need you to help us with the code for it!
 
 ## How do I get set up?
 
